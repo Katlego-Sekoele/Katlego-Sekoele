@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on trying to get more green squares on my Github profile
 - 🌱 I’m currently learning full-stack web development
-- 📫 How to reach me: (On LinkedIn)[https://www.linkedin.com/in/maesela/]
+- 📫 How to reach me: [On LinkedIn](https://www.linkedin.com/in/maesela/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dabbled in a bit of League of Legends in my spare time.
 
