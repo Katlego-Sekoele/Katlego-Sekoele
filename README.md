@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me: [On LinkedIn](https://www.linkedin.com/in/maesela/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dabbled in a bit of League of Legends in my spare time.
+- ⚡ Fun fact: I dabble in a bit of League of Legends in my spare time.
 
 ## Personal Motivation
 As a final year student at the University of Cape Town, I am passionate about using my knowledge of computer science and business computing to make a positive impact. With a strong affinity for learning and a passion for technology, I am a firm believer in the power of continuous learning and improvement. I follow the CL/CI (continuous learning and continuous improvement) framework (totally made up), which guides me in my pursuit of personal and professional growth.
